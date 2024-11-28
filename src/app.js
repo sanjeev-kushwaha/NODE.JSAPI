@@ -7,7 +7,7 @@ const config = require("./config/config");
 const jwt = require("jsonwebtoken");
 
 const app = express();
-const port = 5000;
+const port = 1999;
 
 
 //================ ===> All Authentication  code like user Registration and User Login with JWT Token are Start  👇👇👇/////////////
